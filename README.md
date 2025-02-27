@@ -1,3 +1,8 @@
+# Assignment 1
+### Terraform code to successfully lanch ec2 instance with nginx.
+##### Code is in terraform code folder
+
+
 # Assignment 2
 # Steps to deploy node app on ec2 instance by using docker compose.
 
@@ -7,6 +12,7 @@
 ### Application running on this ulr http://35.170.185.251:3000/
 ### Prof every service is running fine
 ![result](https://github.com/user-attachments/assets/8a65692a-098e-4112-a901-4c39ba764aba)
+
 
 # Assignment 3
 # bash script to take backup and upload to s3 bucket
